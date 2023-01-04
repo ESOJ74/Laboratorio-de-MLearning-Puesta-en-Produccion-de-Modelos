@@ -1,3 +1,3 @@
-# Laboratorio-de-Machine-Learning-Puesta-en-Producci-n-de-Modelos
+# Laboratorio de MLearning Puesta en Producción de Modelos
 
 prueba inicial
